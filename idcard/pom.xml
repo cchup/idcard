@@ -41,5 +41,7 @@
 	</build>
 	<modules>
 		<module>idcard-web</module>
+		<module>idcard-service</module>
+		<module>idcard-dao</module>
 	</modules>
 </project>
